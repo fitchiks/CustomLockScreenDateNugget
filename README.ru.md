@@ -8,6 +8,8 @@
 Работает на движке восстановления [LeminLimez/Nugget](https://github.com/leminlimez/Nugget).
 Поддерживаются iOS **26.0 – 26.6.2**.
 
+<img width="707" height="889" alt="image" src="https://github.com/user-attachments/assets/afc54927-8187-41b6-a83d-112e79c8bb46" />
+
 ## Как это работает
 
 iOS рисует дату на локскрине по фиксированному короткому шаблону (`EEE d MMM`). Сам шаблон
