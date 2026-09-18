@@ -21,6 +21,13 @@ iOS рисует дату на локскрине по фиксированно�
 `HomeDomain/Library/Preferences/.GlobalPreferences.plist`. Управляемый файл не трогается,
 поэтому утилита не конфликтует с другими твиками Nugget (Liquid Glass и т.д.).
 
+## Как выглядит до
+<img width="473" height="270" alt="до применения твика" src="https://github.com/user-attachments/assets/335a7df7-edcb-4fb5-b5dc-276a39274a74" />
+
+## Как выглядит после
+<img width="474" height="264" alt="после применения твика" src="https://github.com/user-attachments/assets/794efc03-8e71-4e0b-b4be-6276a217debe" />
+
+
 ## Возможности
 
 - Все системные языки iPhone и все регионы — выбираешь ту же пару, что стоит на устройстве.
