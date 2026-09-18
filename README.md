@@ -21,6 +21,12 @@ The tool writes a single file — the user preferences
 `HomeDomain/Library/Preferences/.GlobalPreferences.plist` — and never touches the managed
 preferences file, so it does not interfere with other Nugget tweaks (Liquid Glass, etc.).
 
+## Before the tweak
+<img width="473" height="270" alt="Before the tweak" src="https://github.com/user-attachments/assets/335a7df7-edcb-4fb5-b5dc-276a39274a74" />
+
+## After the tweak
+<img width="474" height="264" alt="After the tweak" src="https://github.com/user-attachments/assets/794efc03-8e71-4e0b-b4be-6276a217debe" />
+
 ## Features
 
 - All iPhone system languages and all regions — pick the exact pair your device uses.
