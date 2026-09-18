@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+build/
+dist/
+*.spec
+.DS_Store
+.vscode/
+.idea/
+
+# device pairing / backups — never commit
+*.mbdb
+Manifest.db
+com.apple.MobileGestalt.plist
+lockdown/
+backup/
+ibackup/
+
+# personal notes
+*ЧИТАЙ*

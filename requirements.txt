@@ -1,0 +1,5 @@
+pymobiledevice3<=7.8.3
+construct-typing==0.6.2
+PySide6-Essentials; sys_platform != 'linux'
+PySide6; sys_platform == 'linux'
+pyuac; sys_platform == 'windows'
