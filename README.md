@@ -1,5 +1,7 @@
 # Custom Lock Screen Date (Nugget)
 
+**English** · [Русский](README.ru.md)
+
 Brings back the long date format on the iOS 26 lock screen — «Friday, September 18»
 instead of the shortened «Fri Sep 18» that Apple left with no setting to change.
 
