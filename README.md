@@ -6,7 +6,7 @@ Brings back the long date format on the iOS 26 lock screen — «Friday, Septemb
 instead of the shortened «Fri Sep 18» that Apple left with no setting to change.
 
 Built on the restore engine of [LeminLimez/Nugget](https://github.com/leminlimez/Nugget).
-Works on iOS **26.0 – 26.6.2**.
+Works on iOS **26.0 – 26.7**.
 
 <img width="707" height="889" alt="image" src="https://github.com/user-attachments/assets/afc54927-8187-41b6-a83d-112e79c8bb46" />
 
